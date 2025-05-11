@@ -1,19 +1,21 @@
 # Fat-pig-Cui.github.io
 
-Personal Academic Pages (Resume)
+Personal Academic Page (Resume)
 
 - Chenyu Cui
 - University of Science and Technology of China
 - ccy0774@mail.ustc.edu.cn / chubbypig@qq.com
 - github.com/Fat-pig-Cui
 - QQ: 2225226810
-- Bilibili: [Personal space](https://space.bilibili.com/372365985)
+- Bilibili: [my video channel](https://space.bilibili.com/372365985)
 
 ## Introduction
 
-I am a prospective Academic Master's student of Prospective Research Laboratory, Institute of Computing Technology,
-University of Chinese Academy of Sciences (enrol on Sep 2025), supervised by Senior Engineer Yucheng Zhang.
-My research interests include artificial intelligence and agricultural machinery. I am also interested in microchips
+I am a prospective Academic Master's student of Prospective Research Laboratory, 
+[Institute of Computing Technology](http://english.ict.cas.cn), Chinese Academy of Sciences 
+(enrollment on Sep 2025), supervised by Senior Engineer Yucheng Zhang.
+
+My research interests include artificial intelligence and agricultural machinery. I am also interested in microprocessor
 and hardware design.
 
 ## Education
@@ -30,4 +32,4 @@ Aiming to modify the replay data of the Mahjong Game "Mahjong Soul"
 
 ### [misc-code](https://github.com/Fat-pig-Cui/misc-code)
 
-Containing Some python scripts and docs of the Mahjong Game "Mahjong Soul"
+Containing some python scripts and documents of the Mahjong Game "Mahjong Soul"
